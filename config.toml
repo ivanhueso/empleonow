@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "localhost:1313"
+baseurl = "https://ivanhueso.github.io/"
 title = "Empleo Now"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
