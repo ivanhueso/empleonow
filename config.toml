@@ -86,38 +86,26 @@ theme = "hugo-elate-theme"
     [[params.work.row]]
       img = "work_1.jpg"
       alt = "Image2"
-      title = "Project 1"
-      subtitle = "Branding"
 
     [[params.work.row]]
       img = "work_2.jpg"
       alt = "Image2"
-      title = "Project 2"
-      subtitle = "Design"
 
     [[params.work.row]]
       img = "work_3.jpg"
       alt = "Image3"
-      title = "Project 3"
-      subtitle = "Design"
 
     [[params.work.row]]
       img = "work_4.jpg"
       alt = "Image4"
-      title = "Project 4"
-      subtitle = "Design"
 
     [[params.work.row]]
       img = "work_5.jpg"
       alt = "Image5"
-      title = "Project 5"
-      subtitle = "Design"
 
     [[params.work.row]]
       img = "work_6.jpg"
       alt = "Image6"
-      title = "Project 6"
-      subtitle = "Design"
 
   # Testimonials section
   [params.testimonials]
@@ -142,8 +130,6 @@ theme = "hugo-elate-theme"
       person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
       img = "person3.jpg"
       alt = "Person3"
-
-
 
 
   # Services section
@@ -186,8 +172,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       description = "Bonos semanales"
 
-
-      [[params.about.item]]
+    [[params.about.item]]
             description = "Salario para Managers"
 
     [[params.about.item]]
@@ -221,7 +206,7 @@ theme = "hugo-elate-theme"
 
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-home", "5400 S University Dr <br>Davie, FL 3314 <br> United States"],
+        ["icon-home", "5400 S University Dr <br>Davie, FL 33314 <br> United States"],
         ["icon-phone", "(786) 440-8077"],
         ["icon-envelope", "monica@empleonow.com"]
       ]
