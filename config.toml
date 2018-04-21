@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "https://ivanhueso.github.io"
+baseurl = "http://www.empleonow.com"
 title = "Empleo Now"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
@@ -10,8 +10,8 @@ theme = "hugo-elate-theme"
 
   # Meta
   author = "Ivan Hueso"
-  description = "Empleo Now Descripcion."
-  email = "ivanhueso@gmail.com"
+  description = "Unete a nuestro team de ventas. Excelente oportunidad laboral en la Florida"
+  email = "monica@empleonow.com"
   # Navigation
   [params.navigation]
     brand = "Empleo Now"
