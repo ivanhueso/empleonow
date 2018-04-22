@@ -1,12 +1,10 @@
 # Page settings
-baseurl = "http://www.empleonow.com"
+baseurl = "http://www.empleonow.com/"
 title = "Empleo Now"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
 [params]
-
-  custom_css = ["css/custom1.css", "css/custom2.css"]
 
   # Meta
   author = "Ivan Hueso"
