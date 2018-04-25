@@ -8,16 +8,16 @@ theme = "hugo-elate-theme"
 
   # Meta
   author = "Ivan Hueso"
-  description = "Unete a nuestro team de ventas. Excelente oportunidad laboral en la Florida"
+  description = "Unete a nuestro team de ventas. Excelente oportunidad laboral"
   email = "monica@empleonow.com"
   # Navigation
   [params.navigation]
     brand = "Empleo Now"
-    work = "Acerca de Nosotros"
+    work = "Propuesta Laboral"
     testimonials = "Testimonios"
     services = "Nuestros Productos"
     about = "Que Ofrecemos?"
-    contact = "Inscribase"
+    contact = "Contáctese"
 
     # You can add custom links before or after the default links
     # Assign a weight to define the order
@@ -37,7 +37,7 @@ theme = "hugo-elate-theme"
   # Hero section
   [params.hero]
     title = "Unete a nuestro team de ventas"
-    subtitle = 'Excelente oportunidad laboral en la Florida  <a href="#" data-nav-section="contact">¡Inscribase Hoy!</a><br>o LLamenos al <a href="#fh5co-contact" data-nav-section="contact">(786) 440-8077</a>  '
+    subtitle = 'Excelente oportunidad laboral  <a href="#" data-nav-section="contact">¡Inscribase Hoy!</a><br>o LLamenos para una entrevista al <a href="#fh5co-contact" data-nav-section="contact">(786) 440-8077</a>'
 
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -78,8 +78,8 @@ theme = "hugo-elate-theme"
   # Work section
   [params.work]
     enable = true
-    title = "Acerca de Nosotros"
-    description = "Compañía internacional líder en Seguros abriendo mercado latino en la Florida busca profesionales con experiencia en ventas, con licencia 215 o 240. Si todavía no tienes alguna de estas licencias te ayudamos a sacarla en 2 semanas. Puestos disponibles en Miami y Brodward .Agentes y Gerentes Territoriales"
+    title = "Propuesta Laboral"
+    description = "Compania internacional líder en Seguros, busca personas emprendedoras con experiencia en ventas. Requisitos Licencia 215 o 240 .(si todavía no tienes alguna de estas licencias te ayudamos a sacarla). Permiso para poder trabajar en USA. Disponibilidad de vehiculo. Puestos disponibles como Agentes y Gerentes Territoriales."
 
     [[params.work.row]]
       img = "work_1.jpg"
@@ -137,29 +137,29 @@ theme = "hugo-elate-theme"
 
     [[params.services.item]]
       title = "Ingresos"
-      description = "<b>Protector de Ingresos</b><br> Lo ayudara a pagar los gastos de su diario vivir.<br><br><b>Sick Pay Plus</b><br> Le ayuda a pagar los gastos de su vida diaria cuando usted no pueda trabajar debido a in accidente y enfermedad."
+      description = "<b>Protector de Ingresos</b><br> Lo ayudara a pagar los gastos de su vida diaria.<br><br><b>Sick Pay Plus</b><br> Le ayuda a pagar los gastos de su vida diaria cuando usted no pueda trabajar debido a un accidente o enfermedad."
       icon = "icon-wallet"
 
     [[params.services.item]]
       title = "Accidentes y enfermedades"
-      description = "<b>Protector para Accidentes y Enfermedad</b><br> Lo ayudara a pagar los gastos por accidente y enfermedad.<br><br><b>Protector para Accidentes</b><br> Ambos lo protegen contra los gastos no medicos asociados con el tratamiento y la recuperacion de una enfermedad o un accidente."
+      description = "<b>Protector para Accidentes y Enfermedad</b><br> Lo ayudara a pagar los gastos por accidente y enfermedad en una hospitalización.<br><br><b>Protector para Accidentes</b><br> Lo ayudara a pagar los gastos por accidente en una hospitalización."
       icon = "icon-fire"
 
     [[params.services.item]]
       title = "Estilo de Vida de la Familia"
-      description = "<b>Protector de Vida Familiar</b><br>Protege a su familia ante un accidente o enfermedad.<br><br><b>Protector de Ventaja Dorada</b><br> Ambos protegen el estilo de vida de su familia con un beneficio en efectivo para los sobrevivientes."
+      description = "<b>Protector de Vida Familiar</b><br>Protege a su familia en case de fallecimiento.<br><br><b>Protector de Ventaja Dorada</b><br> Ayuda a su familia en caso de perdida de vida."
       icon = "icon-people"
 
       [[params.services.item]]
       title = "Condiciones Criticas"
-      description = "<b>Protector de Cancer</b><br>Ayuda a pagar los gastos medicos y no medicos asociados a determinados problemas de salud."
+      description = "<b>Protector de Cancer</b><br>Ayuda a pagar los gastos de hospitalización."
       icon = "icon-clock"
 
   # About section
   [params.about]
     enable = true
-    title = "Que Ofrecemos"
-    description = "Por ser una empresa lider the ofrecemos los siguientes beneficios"
+    title = "Que Ofrecemos?"
+    description = "Por ser una empresa lider le ofrecemos los siguientes beneficios"
 
     [[params.about.item]]
       description = "Entrenamiento pago"
@@ -192,14 +192,14 @@ theme = "hugo-elate-theme"
   [params.counters]
     enable = true
     title = "Quienes somos"
-    description = "Compania de seguros con varias sucursales a lo largo y lo ancho de América del Norte. A.M. Best, la calificación de seguros mas prestigiosa y reconocida, nos otorga la calificación A+(superior) y contamos con mas de 3 millones de pólizas de seguros complementarios vigentes en América del Norte, además, pagamos casi 1 millón de dólares por día hábil."
+    description = "Compañia de seguros con varias sucursales a lo largo y lo ancho de América del Norte. A.M. Best, la calificación de seguros mas prestigiosa y reconocida, nos otorga la calificación A+(superior) y contamos con mas de 3 millones de pólizas de seguros complementarios vigentes en América del Norte, además, pagamos casi 1 millón de dólares por día hábil."
 
   # Contact section
   [params.contact]
     enable = true
     map = true
     form = true
-    title = "Inscribase"
+    title = "Contáctese"
     description = "Si te consideras un líder y tienes experiencia en ventas, regístrate aqui y nos comunicaremos a la brevedad para una entrevista."
 
     # Available icons: http://simplelineicons.com/
@@ -219,8 +219,3 @@ theme = "hugo-elate-theme"
   [params.footer]
     enable = true
     copyright = '&copy; Copyright 2017-2018 Empleo Now. Todos los derechos reservados'
-    links = [
-        ["icon-twitter", "#twitter"],
-        ["icon-facebook", "#facebook"],
-        ["icon-youtube", "#youtube"]
-      ]
