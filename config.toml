@@ -112,21 +112,21 @@ theme = "hugo-elate-theme"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;"
-      person = 'Jean Doe, CEO <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person1.jpg"
+      quote = "&ldquo;En esta compañía estamos en proceso de crecimiento esto implica para mi un ambiente de trabajo estimulante, dinámico, con mucha energía y lleno de oportunidades&rdquo;"
+      person = 'Maria Velazquez'
+      img = "person1.png"
       alt = "Person1"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;"
-      person = 'John Doe, Senior UI <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person2.jpg"
+      quote = "&ldquo;Trabajo en esta Compania solida acumulando éxitos años tras años en la industria de seguros y principalmente con diversidad laboral , qué pasa a ser un Estilo de Vida para mi&rdquo;"
+      person = 'Gerardo De Leon'
+      img = "person2.png"
       alt = "Person2"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. &rdquo;"
-      person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person3.jpg"
+      quote = "&ldquo;Estoy tarabajando en esta Compania hace 5 años y ha sido de constante Capacitacion, Crecimiento personal , profesional y económico&rdquo;"
+      person = 'Giselle Martinez'
+      img = "person3.png"
       alt = "Person3"
 
 
