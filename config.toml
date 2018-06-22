@@ -38,7 +38,7 @@ theme = "hugo-elate-theme"
   # Hero section
   [params.hero]
     title = "Unete a nuestro team de ventas"
-    subtitle = 'Excelente oportunidad laboral  <a href="#" data-nav-section="contact">¡Inscribase Hoy!</a><br>o LLamenos para una entrevista al <a href="#fh5co-contact" data-nav-section="contact">(786) 440-8077</a>'
+    subtitle = 'Excelente oportunidad laboral  <a href="#fh5co-contact" data-nav-section="contact">¡Inscribase Hoy!</a><br>o LLamenos para una entrevista al <a href="#fh5co-contact" data-nav-section="contact">(786) 440-8077</a>'
 
   # Intro section
   # Available icons: http://simplelineicons.com/
