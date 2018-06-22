@@ -2,7 +2,7 @@
 baseurl = "http://www.empleonow.com/"
 title = "Empleo Now"
 languageCode = "en-us"
-theme = "hugo-elate-theme"
+theme = "empleo-theme"
 
 [params]
 
