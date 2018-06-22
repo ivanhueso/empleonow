@@ -10,6 +10,7 @@ theme = "hugo-elate-theme"
   author = "Ivan Hueso"
   description = "Unete a nuestro team de ventas. Excelente oportunidad laboral"
   email = "monica@empleonow.com"
+  api_key = '880bca7a987d2eed486fef922a732ec2'
   # Navigation
   [params.navigation]
     brand = "Empleo Now"
